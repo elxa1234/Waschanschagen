@@ -10,7 +10,7 @@ import java.util.Scanner;
 //Hello World
 //Hello World
 //Hello World
-//Hello World
+//Hello Wo
 
 
 public class Waitingline extends Thread{
