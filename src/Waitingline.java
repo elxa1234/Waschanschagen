@@ -2,17 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-//Hello World
-
-
 public class Waitingline extends Thread{
     List<String> waitingLine = new ArrayList<>();
 
